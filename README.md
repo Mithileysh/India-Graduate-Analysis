@@ -1,6 +1,6 @@
 # India-Graduate-Analysis
 
-About this Dataset
+About the Dataset
 
 Context
 

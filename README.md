@@ -4,7 +4,7 @@ About this Dataset
 
 Context
 
-We created the data set merging the census 2011 of Indian Cities with Population more than 1 Lac and City wise number of Graduates from the Census 2011, to create a visualization of where the future cities of India stands today, I will try to add more columns [ fertility rate, religion distribution, health standards, number of schools, Mortality rate ] in the future, hope people will contribute.
+We created the data set merging the census 2011 of Indian Cities with Population more than 1 Lac and City wise number of Graduates from the Census 2011, to create a visualization of where the future cities of India stands today, We will try to add more columns [ fertility rate, religion distribution, health standards, number of schools, Mortality rate ] in the future, hope people will contribute.
 
 Content
 
